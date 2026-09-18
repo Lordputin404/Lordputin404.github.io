@@ -330,84 +330,161 @@ function App() {
             <span className="rom-number">01</span>
             <h3>Lunaris-AOSP</h3>
             <p>POCO F4 • munch</p>
-            <span className="rom-version">Android 16</span>
+
+            <div className="rom-meta">
+              <span className="rom-version">Android 16</span>
+              <a
+                href="https://sourceforge.net/projects/munch-roms/files/Lunaris-AOSP/"
+                target="_blank"
+                rel="noreferrer"
+                className="rom-link"
+              >
+                View Release →
+              </a>
+            </div>
           </article>
 
           <article className="rom-card">
             <span className="rom-number">02</span>
             <h3>Project Infinity-X</h3>
             <p>POCO F4 • munch</p>
-            <span className="rom-version">Android 16</span>
+
+            <div className="rom-meta">
+              <span className="rom-version">Android 16</span>
+              <a href="https://sourceforge.net/projects/munch-roms/files/Infinity-X/" target="_blank" rel="noreferrer" className="rom-link">
+                View Release →
+              </a>
+            </div>
           </article>
 
           <article className="rom-card">
             <span className="rom-number">03</span>
             <h3>Project Matrixx</h3>
             <p>POCO F4 • munch</p>
-            <span className="rom-version">Android 16</span>
+
+            <div className="rom-meta">
+              <span className="rom-version">Android 16</span>
+              <a href="https://sourceforge.net/projects/munch-roms/files/Project_Matrixx/" target="_blank" rel="noreferrer" className="rom-link">
+                View Release →
+              </a>
+            </div>
           </article>
 
           <article className="rom-card">
             <span className="rom-number">04</span>
             <h3>VoltageOS</h3>
             <p>POCO F4 • munch</p>
-            <span className="rom-version">Android 16</span>
+
+            <div className="rom-meta">
+              <span className="rom-version">Android 16</span>
+              <a href="https://sourceforge.net/projects/munch-roms/files/VoltageOS/" target="_blank" rel="noreferrer" className="rom-link">
+                View Release →
+              </a>
+            </div>
           </article>
 
           <article className="rom-card">
             <span className="rom-number">05</span>
             <h3>AxionOS</h3>
             <p>POCO F4 • munch</p>
-            <span className="rom-version">Android 16</span>
+
+            <div className="rom-meta">
+              <span className="rom-version">Android 16</span>
+              <a href="https://sourceforge.net/projects/munch-roms/files/AxionOS/" target="_blank" rel="noreferrer" className="rom-link">
+                View Release →
+              </a>
+            </div>
           </article>
 
           <article className="rom-card">
             <span className="rom-number">06</span>
             <h3>YAAP</h3>
             <p>POCO F4 • munch</p>
-            <span className="rom-version">Android 16</span>
+
+            <div className="rom-meta">
+              <span className="rom-version">Android 16</span>
+              <a href="https://sourceforge.net/projects/munch-roms/files/YAAP/" target="_blank" rel="noreferrer" className="rom-link">
+                View Release →
+              </a>
+            </div>
           </article>
 
           <article className="rom-card">
             <span className="rom-number">07</span>
             <h3>TheCloverProject</h3>
             <p>POCO F4 • munch</p>
-            <span className="rom-version">Android 16</span>
+
+            <div className="rom-meta">
+              <span className="rom-version">Android 16</span>
+              <a href="https://sourceforge.net/projects/munch-roms/files/TheCloverProject/" target="_blank" rel="noreferrer" className="rom-link">
+                View Release →
+              </a>
+            </div>
           </article>
 
           <article className="rom-card">
             <span className="rom-number">08</span>
             <h3>Mist OS</h3>
             <p>POCO F4 • munch</p>
-            <span className="rom-version">Android 16</span>
+
+            <div className="rom-meta">
+              <span className="rom-version">Android 16</span>
+              <a href="https://sourceforge.net/projects/munch-roms/files/Mist_OS/" target="_blank" rel="noreferrer" className="rom-link">
+                View Release →
+              </a>
+            </div>
           </article>
 
           <article className="rom-card">
             <span className="rom-number">09</span>
             <h3>AlphaDroid</h3>
             <p>POCO F4 • munch</p>
-            <span className="rom-version">Android 16</span>
+
+            <div className="rom-meta">
+              <span className="rom-version">Android 16</span>
+              <a href="https://sourceforge.net/projects/munch-roms/files/Alphadroid/" target="_blank" rel="noreferrer" className="rom-link">
+                View Release →
+              </a>
+            </div>
           </article>
 
           <article className="rom-card">
             <span className="rom-number">10</span>
             <h3>Evolution X</h3>
             <p>POCO F4 • munch</p>
-            <span className="rom-version">Android 16</span>
+
+            <div className="rom-meta">
+              <span className="rom-version">Android 16</span>
+              <a href="https://sourceforge.net/projects/munch-roms/files/Evo_X/" target="_blank" rel="noreferrer" className="rom-link">
+                View Release →
+              </a>
+            </div>
           </article>
 
           <article className="rom-card">
             <span className="rom-number">11</span>
             <h3>RisingOS Revived</h3>
             <p>POCO F4 • munch</p>
-            <span className="rom-version">Android 16</span>
+
+            <div className="rom-meta">
+              <span className="rom-version">Android 16</span>
+              <a href="https://sourceforge.net/projects/munch-roms/files/RisingOS_Revived/" target="_blank" rel="noreferrer" className="rom-link">
+                View Release →
+              </a>
+            </div>
           </article>
 
           <article className="rom-card">
             <span className="rom-number">12</span>
             <h3>eOS</h3>
             <p>POCO F4 • munch</p>
-            <span className="rom-version">Android 15</span>
+
+            <div className="rom-meta">
+              <span className="rom-version">Android 15</span>
+              <a href="https://sourceforge.net/projects/munch-roms/files/eOS/" target="_blank" rel="noreferrer" className="rom-link">
+                View Release →
+              </a>
+            </div>
           </article>
 
         </div>
