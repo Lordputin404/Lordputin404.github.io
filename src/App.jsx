@@ -518,10 +518,8 @@ function App() {
             <span>Linux</span>
             <span>Android</span>
             <span>AOSP</span>
-            <span>Linux Kernel</span>
+            <span>Problem Solving</span>
             <span>GitHub Actions</span>
-            <span>C</span>
-            <span>C++</span>
             <span>Shell / Bash</span>
           </div>
         </div>
@@ -543,6 +541,8 @@ function App() {
           <h3>Familiar &amp; Additional</h3>
 
           <div className="skills">
+            <span>C</span>
+            <span>C++</span>
             <span>Java</span>
             <span>Kotlin</span>
             <span>JavaScript</span>
